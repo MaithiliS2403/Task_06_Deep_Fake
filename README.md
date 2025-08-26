@@ -1,7 +1,5 @@
 # Task_06_Deep_Fake
 
-# Task 06 – Deep Fake Interview
-
 This project is part of the SU OPT Research program. The goal was to create a short AI-generated “deep fake” or AI-style interview using insights from previous research.
 
 ---
